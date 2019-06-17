@@ -108,3 +108,5 @@ https://github.com/MultiAgentLearning/playground<br>
 https://github.com/openai/neural-mmo<br>
 * TORCS:<br>
 https://sourceforge.net/projects/torcs/<br>
+* football:<br>
+https://github.com/google-research/football<br>
