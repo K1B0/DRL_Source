@@ -1,6 +1,6 @@
 # DRL_Source
 This page provides a source collection of Deep reinforcement learning including online courses, useful papers and so on.
-Course
+##Course
 David Silver Reinforcement Learning Course
 Slides: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 Video: https://www.youtube.com/watch?v=2pWv7GOvuf0
@@ -12,7 +12,7 @@ https://spinningup.openai.com/en/latest/index.html
 https://github.com/openai/spinningup
 Arizona State University Reinforcement Learning and Optimal Control
 http://web.mit.edu/dimitrib/www/RLbook.html
-Books
+##Books
 Reinforcement Learning: An Introduction
 https://mitpress.mit.edu/books/reinforcement-learning
 Hands-On Reinforcement Learning with Python
@@ -20,7 +20,7 @@ https://www.packtpub.com/big-data-and-business-intelligence/hands-reinforcement-
 https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-with-Python
 Reinforcement Learning and Optimal Control Book:
 http://web.mit.edu/dimitrib/www/RLbook.html
-Frameworks/Platforms
+##Frameworks/Platforms
 Google/Dopamine:
 https://github.com/google/dopamine
 facebookresearch/Horizon
@@ -29,7 +29,7 @@ deepmind/trfl:
 https://github.com/deepmind/trfl/
 danaugrs/huskarl
 https://github.com/danaugrs/huskarl
-Papers of Popular Algorithms
+##Papers of Popular Algorithms
 DQN: 
 Playing Atari with Deep Reinforcement Learning
 https://arxiv.org/abs/1312.5602
@@ -70,7 +70,7 @@ https://science.sciencemag.org/content/362/6419/1140
 Multi-Agent Reinforcement Learning
 https://github.com/LantaoYu/MARL-Papers
 
-Environments
+##Environments
 Gym: 
 http://gym.openai.com/
 https://github.com/openai/gym
