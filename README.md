@@ -1,41 +1,41 @@
 # DRL_Source
 This page provides a source collection of Deep reinforcement learning including online courses, useful papers and so on.
-##Course
-David Silver Reinforcement Learning Course
-Slides: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+## Courses
+* David Silver Reinforcement Learning Course <br>
+Slides: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html<br>
 Video: https://www.youtube.com/watch?v=2pWv7GOvuf0
-UC Berkeley CS 294-112
-http://rail.eecs.berkeley.edu/deeprlcourse/
-https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3
-OpenAI Spinning Up
-https://spinningup.openai.com/en/latest/index.html
-https://github.com/openai/spinningup
-Arizona State University Reinforcement Learning and Optimal Control
+* UC Berkeley CS 294-112<br>
+http://rail.eecs.berkeley.edu/deeprlcourse/<br>
+https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3<br>
+* OpenAI Spinning Up<br>
+https://spinningup.openai.com/en/latest/index.html<br>
+https://github.com/openai/spinningup<br>
+* Arizona State University Reinforcement Learning and Optimal Control<br>
 http://web.mit.edu/dimitrib/www/RLbook.html
-##Books
-Reinforcement Learning: An Introduction
-https://mitpress.mit.edu/books/reinforcement-learning
-Hands-On Reinforcement Learning with Python
-https://www.packtpub.com/big-data-and-business-intelligence/hands-reinforcement-learning-python
-https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-with-Python
-Reinforcement Learning and Optimal Control Book:
-http://web.mit.edu/dimitrib/www/RLbook.html
-##Frameworks/Platforms
-Google/Dopamine:
-https://github.com/google/dopamine
-facebookresearch/Horizon
-https://github.com/facebookresearch/Horizon
-deepmind/trfl:
-https://github.com/deepmind/trfl/
-danaugrs/huskarl
+## Books
+* Reinforcement Learning: An Introduction<br>
+https://mitpress.mit.edu/books/reinforcement-learning<br>
+* Hands-On Reinforcement Learning with Python<br>
+https://www.packtpub.com/big-data-and-business-intelligence/hands-reinforcement-learning-python<br>
+https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-with-Python<br>
+* Reinforcement Learning and Optimal Control Book:<br>
+http://web.mit.edu/dimitrib/www/RLbook.html<br>
+## Frameworks/Platforms
+* Google/Dopamine:<br>
+https://github.com/google/dopamine<br>
+* facebookresearch/Horizon<br>
+https://github.com/facebookresearch/Horizon <br>
+* deepmind/trfl:<br>
+https://github.com/deepmind/trfl/ <br>
+* danaugrs/huskarl<br>
 https://github.com/danaugrs/huskarl
-##Papers of Popular Algorithms
-DQN: 
+## Papers of Popular Algorithms
+DQN
 Playing Atari with Deep Reinforcement Learning
 https://arxiv.org/abs/1312.5602
 Human-level control through deep reinforcement learning
-https://www.nature.com/articles/nature14236
-Rainbow:
+https://www.nature.com/articles/nature14236<br>
+Rainbow
 Rainbow: Combining Improvements in Deep Reinforcement Learning
 http://arxiv.org/abs/1710.02298
 DPG
@@ -47,7 +47,7 @@ https://arxiv.org/abs/1509.02971
 HER 
 Hindsight Experience Replay
 	https://arxiv.org/abs/1707.01495
-A3C 
+A3C
 Asynchronous Methods for Deep Reinforcement Learning
 https://arxiv.org/abs/1602.01783
 TRPO
@@ -70,7 +70,7 @@ https://science.sciencemag.org/content/362/6419/1140
 Multi-Agent Reinforcement Learning
 https://github.com/LantaoYu/MARL-Papers
 
-##Environments
+## Environments
 Gym: 
 http://gym.openai.com/
 https://github.com/openai/gym
