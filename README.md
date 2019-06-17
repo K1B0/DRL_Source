@@ -30,81 +30,81 @@ https://github.com/deepmind/trfl/ <br>
 * danaugrs/huskarl<br>
 https://github.com/danaugrs/huskarl
 ## Papers of Popular Algorithms
-DQN
-Playing Atari with Deep Reinforcement Learning
-https://arxiv.org/abs/1312.5602
-Human-level control through deep reinforcement learning
+* DQN<br>
+Playing Atari with Deep Reinforcement Learning<br>
+https://arxiv.org/abs/1312.5602<br>
+Human-level control through deep reinforcement learning<br>
 https://www.nature.com/articles/nature14236<br>
-Rainbow
-Rainbow: Combining Improvements in Deep Reinforcement Learning
-http://arxiv.org/abs/1710.02298
-DPG
-Deterministic policy gradient algorithms
-	https://dl.acm.org/citation.cfm?id=3044850
-DDPG
-Continuous control with deep reinforcement learning
-https://arxiv.org/abs/1509.02971
-HER 
-Hindsight Experience Replay
-	https://arxiv.org/abs/1707.01495
-A3C
-Asynchronous Methods for Deep Reinforcement Learning
-https://arxiv.org/abs/1602.01783
-TRPO
-Trust Region Policy Optimization 
-https://arxiv.org/abs/1502.05477
-PPO
-Proximal Policy Optimization Algorithms 
-https://arxiv.org/abs/1707.06347
-Alpha Go
-Mastering the game of Go with deep neural networks and tree search
-	https://www.nature.com/articles/nature16961
-Alpha Go Zero
-Mastering the game of Go without human knowledge
-http://www.nature.com/articles/nature24270
-Alpha Zero
-Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm
-https://arxiv.org/abs/1712.01815
-A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play
-https://science.sciencemag.org/content/362/6419/1140
-Multi-Agent Reinforcement Learning
-https://github.com/LantaoYu/MARL-Papers
+* Rainbow<br>
+Rainbow: Combining Improvements in Deep Reinforcement Learning<br>
+http://arxiv.org/abs/1710.02298<br>
+* DPG<br>
+Deterministic policy gradient algorithms<br>
+	https://dl.acm.org/citation.cfm?id=3044850<br>
+* DDPG<br>
+Continuous control with deep reinforcement learning<br>
+https://arxiv.org/abs/1509.02971<br>
+* HER <br>
+Hindsight Experience Replay<br>
+	https://arxiv.org/abs/1707.01495<br>
+* A3C<br>
+Asynchronous Methods for Deep Reinforcement Learning<br>
+https://arxiv.org/abs/1602.01783<br>
+* TRPO<br>
+Trust Region Policy Optimization <br>
+https://arxiv.org/abs/1502.05477<br>
+* PPO<br>
+Proximal Policy Optimization Algorithms <br>
+https://arxiv.org/abs/1707.06347<br>
+* Alpha Go<br>
+Mastering the game of Go with deep neural networks and tree search<br>
+	https://www.nature.com/articles/nature16961<br>
+* Alpha Go Zero<br>
+Mastering the game of Go without human knowledge<br>
+http://www.nature.com/articles/nature24270<br>
+* Alpha Zero<br>
+Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm<br>
+https://arxiv.org/abs/1712.01815<br>
+A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play<br>
+https://science.sciencemag.org/content/362/6419/1140<br>
+* Multi-Agent Reinforcement Learning<br>
+https://github.com/LantaoYu/MARL-Papers<br>
 
 ## Environments
-Gym: 
-http://gym.openai.com/
-https://github.com/openai/gym
-VizDoom: 
-http://vizdoom.cs.put.edu.pl/
-https://github.com/mwydmuch/ViZDoom
-Malmo: 
-https://www.microsoft.com/en-us/research/project/project-malmo/
-https://github.com/microsoft/malmo
-Retro: 
-https://openai.com/blog/retro-contest/
-https://github.com/openai/retro
-MAME: 
-https://github.com/M-J-Murray/MAMEToolkit
-hanabi-learning-environment: 
-https://github.com/deepmind/hanabi-learning-environment
-pysc2: 
-https://github.com/deepmind/pysc2
-ALE:
-https://github.com/mgbellemare/Arcade-Learning-Environment
-DeepMind Lab
-https://deepmind.com/blog/open-sourcing-deepmind-lab/
-https://github.com/deepmind/lab
-SerpentAI
-http://serpent.ai/
-https://github.com/SerpentAI/SerpentAI
-Saltie
-https://github.com/SaltieRL/Saltie
-DeepLeague
-https://github.com/farzaa/DeepLeague
-Playground
-https://www.pommerman.com/
-https://github.com/MultiAgentLearning/playground
-Neural MMO: 
-https://github.com/openai/neural-mmo
-TORCS:
-https://sourceforge.net/projects/torcs/
+* Gym: <br>
+http://gym.openai.com/<br>
+https://github.com/openai/gym<br>
+* VizDoom: <br>
+http://vizdoom.cs.put.edu.pl/<br>
+https://github.com/mwydmuch/ViZDoom<br>
+* Malmo: <br>
+https://www.microsoft.com/en-us/research/project/project-malmo/<br>
+https://github.com/microsoft/malmo<br>
+* Retro: <br>
+https://openai.com/blog/retro-contest/<br>
+https://github.com/openai/retro<br>
+* MAME: <br>
+https://github.com/M-J-Murray/MAMEToolkit<br>
+* hanabi-learning-environment: <br>
+https://github.com/deepmind/hanabi-learning-environment<br>
+* pysc2: <br>
+https://github.com/deepmind/pysc2<br>
+* ALE:<br>
+https://github.com/mgbellemare/Arcade-Learning-Environment<br>
+* DeepMind Lab<br>
+https://deepmind.com/blog/open-sourcing-deepmind-lab/<br>
+https://github.com/deepmind/lab<br>
+* SerpentAI<br>
+http://serpent.ai/<br>
+https://github.com/SerpentAI/SerpentAI<br>
+* Saltie<br>
+https://github.com/SaltieRL/Saltie<br>
+* DeepLeague<br>
+https://github.com/farzaa/DeepLeague<br>
+* Playground<br>
+https://www.pommerman.com/<br>
+https://github.com/MultiAgentLearning/playground<br>
+* Neural MMO: <br>
+https://github.com/openai/neural-mmo<br>
+* TORCS:<br>
+https://sourceforge.net/projects/torcs/<br>
