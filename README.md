@@ -7,6 +7,8 @@ Video: https://www.youtube.com/watch?v=2pWv7GOvuf0
 * UC Berkeley CS 294-112<br>
 http://rail.eecs.berkeley.edu/deeprlcourse/<br>
 https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3<br>
+* Stanford CS234: Reinforcement Learning<br>
+http://web.stanford.edu/class/cs234/index.html<br>
 * OpenAI Spinning Up<br>
 https://spinningup.openai.com/en/latest/index.html<br>
 https://github.com/openai/spinningup<br>
