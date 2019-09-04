@@ -112,3 +112,7 @@ https://github.com/openai/neural-mmo<br>
 https://sourceforge.net/projects/torcs/<br>
 * football:<br>
 https://github.com/google-research/football<br>
+* House3D:<br>
+https://github.com/facebookresearch/House3D<br>
+* dm_control: The DeepMind Control Suite and Package:<br>
+https://github.com/deepmind/dm_control<br>
