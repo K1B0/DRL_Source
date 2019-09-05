@@ -116,3 +116,5 @@ https://github.com/google-research/football<br>
 https://github.com/facebookresearch/House3D<br>
 * dm_control: The DeepMind Control Suite and Package:<br>
 https://github.com/deepmind/dm_control<br>
+* deepmind/open_spiel:<br>
+https://github.com/deepmind/open_spiel<br>
