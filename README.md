@@ -118,3 +118,6 @@ https://github.com/facebookresearch/House3D<br>
 https://github.com/deepmind/dm_control<br>
 * deepmind/open_spiel:<br>
 https://github.com/deepmind/open_spiel<br>
+* RLCard:<br>
+https://github.com/datamllab/rlcard<br>
+http://rlcard.org/<br>
